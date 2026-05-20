@@ -13,10 +13,12 @@
 
 - <img src="Logo UTN.png" width="18" alt="UTN Logo" style="vertical-align: middle; margin-right: 7px;" /> I am I am an Information Systems Engineering student at UTN [National Technological University](https://frba.utn.edu.ar/)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am currently focused on `Full Stack Development`.
+- :mag: Focused on **Backend Development** (Java / Node.js) and **Data Analysis** (Python / SQL).
+- :triangular_ruler: Driven by clean code, software architecture, and process optimization.
+- :dart: Aiming to build scalable technology solutions that bridge business needs with impactful code.
 - :student: I’m currently learning `System Dising` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY Linkedin](https://www.linkedin.com/in/ivan-ales-227566225/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [My Linkedin](https://www.linkedin.com/in/ivan-ales-227566225/).
 - :boom: You can visit My Web(In Progress).
 <br>
 
