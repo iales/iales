@@ -11,7 +11,7 @@
 
 <br><br>
 
-- <img src="Logo UTN.png" width="18" alt="UTN Logo" style="vertical-align: middle; margin-right: 7px;" /> I am I am an Information Systems Engineering student at UTN [National Technological University](https://frba.utn.edu.ar/)
+- <img src="Logo UTN.png" width="18" alt="UTN Logo" style="vertical-align: middle; margin-right: 7px;" /> I am an Information Systems Engineering student at UTN [National Technological University](https://frba.utn.edu.ar/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :mag: Focused on **Backend Development** (Java / Node.js) and **Data Analysis** (Python / SQL).
 - :triangular_ruler: Driven by clean code, software architecture, and process optimization.
